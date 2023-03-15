@@ -18,9 +18,11 @@ Here are some ideas to get you started:
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=commashy&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=commashy&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-</p>
+  <a href="https://github.com/anuraghazra/github-readme-stats&v=2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=commashy&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+</a>
 
-[![commashy's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=commashy)](https://github.com/anuraghazra/github-readme-stats&v=2)
+</p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats&v=2">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=commashy&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
